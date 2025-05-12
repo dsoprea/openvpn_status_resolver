@@ -1,0 +1,8 @@
+
+# A fork that includes a necessary fix for newer-format timestamps:
+#
+#   https://github.com/tonyseek/openvpn-status/pull/32
+#
+[submodule "openvpn_resolver/vendor/openvpn-status"]
+	path = openvpn_resolver/vendor/openvpn-status
+	url = https://github.com/vpiserchia/openvpn-status.git
