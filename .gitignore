@@ -1,5 +1,9 @@
 # created by virtualenv automatically
 
+/build/
 /bin/
 /lib/
-/openvpn_resolver.egg-info/
+/openvpn_status_resolver.egg-info/
+
+.python-version
+

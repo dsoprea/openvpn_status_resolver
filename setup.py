@@ -24,7 +24,7 @@ setuptools.setup(
     include_package_data=True,
     zip_safe=False,
     package_data={
-        'ss': [
+        'openvpn_resolver': [
             'resources/README.md',
             'resources/requirements.txt',
             'resources/requirements-testing.txt',
